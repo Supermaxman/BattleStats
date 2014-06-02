@@ -1,0 +1,12 @@
+name: BattleStats
+main: me.supermaxman.battlestats.BattleStats
+version: 1.0.0
+author: Supermaxman
+description: Stats!
+commands:
+    stats:
+        description: Gets stats.
+        usage: /<command> [player]
+    accuracy:
+        description: Gets stats.
+        usage: /<command> [player]
